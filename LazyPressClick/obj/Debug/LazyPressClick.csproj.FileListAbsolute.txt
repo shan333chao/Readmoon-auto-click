@@ -1,0 +1,9 @@
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\bin\Debug\LazyPressClick.exe.config
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\bin\Debug\LazyPressClick.exe
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\bin\Debug\LazyPressClick.pdb
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\obj\Debug\LazyPressClick.AutoHotKey.resources
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\obj\Debug\LazyPressClick.Properties.Resources.resources
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\obj\Debug\LazyPressClick.csproj.GenerateResource.Cache
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\obj\Debug\LazyPressClick.exe
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\obj\Debug\LazyPressClick.pdb
+c:\users\hendiao\documents\visual studio 2013\Projects\LazyPressClick\LazyPressClick\obj\Debug\LazyPressClick.csprojResolveAssemblyReference.cache
